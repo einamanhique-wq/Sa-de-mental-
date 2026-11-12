@@ -1,0 +1,10 @@
+COMO COLOCAR AS FOTOGRAFIAS DO GRUPO
+Copiem fotografias para esta pasta com EXACTAMENTE estes nomes (formato .jpg):
+  hero.jpg   -> foto principal da página inicial
+  foto1.jpg  -> galeria (pressão e estudo)
+  foto2.jpg  -> galeria (conversar e apoiar)
+  foto3.jpg  -> galeria (desporto e actividades)
+  foto4.jpg  -> galeria (descanso e bem-estar)
+Enquanto uma foto não existir, o site mostra uma ilustração no lugar.
+Regras da folha: usem fotos próprias ou livres de direitos (ex.: unsplash.com, pexels.com)
+e NÃO mostrem rostos ou nomes de pessoas em situações sensíveis sem autorização.
